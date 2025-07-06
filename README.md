@@ -15,7 +15,7 @@ This project showcases a multi-functional **line follower robot** developed as p
 |-------------------|------------|
 | Pathak Krish      | 230002049  |
 | Mudit Tiwari      | 230002044  |
-| Nishit            | 230002047  |
+| Nishit Rupavatia  | 230002047  |
 | Nitin Mewara      | 230002048  |
 | Pranav            | 230002045  |
 | Naman Goyal       | 230002046  |
