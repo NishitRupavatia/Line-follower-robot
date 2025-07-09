@@ -86,8 +86,8 @@ A mobile phone app connects via the HC-05 Bluetooth module to allow remote opera
 
 ## Photos
 
-```markdown
-![Robot Front View](your_image_path/front_view.jpg)
+
+![Robot Front View](Images/Front_View.png)
 ![Robot Side View](your_image_path/side_view.jpg)
 
 ---
